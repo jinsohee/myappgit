@@ -7,6 +7,6 @@
 <title>Index.html</title>
 </head>
 <body>
-
+	<h2>제목</h2>
 </body>
 </html>
